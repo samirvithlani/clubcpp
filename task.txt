@@ -1,0 +1,8 @@
+create class color 
+
+take input from user as color name and color code,
+only 3 color code is valid 101 -red,102,green,103-blue
+others are invalid, if user add other declain it and send message to user to enter valid color code
+get color
+
+print color and color name

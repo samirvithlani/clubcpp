@@ -1,0 +1,88 @@
+what is c++?
+
+c++ is programming language:
+
+
+dif between c and c++:
+1) c++ is object oriented programming language
+ c is not object oriented programming language pops
+
+2) c++ is superset of c
+c is subset of c++
+
+3) c++ is more powerful than c
+
+stdio
+
+                                    iostream header file
+
+                                    input output stream
+                                    input stream class
+                                    output stream class
+
+
+                                        ios
+
+                      istream                       ostream
+
+                                      iostream                  
+
+oops
+4 main pillars of oops
+1) inheritance
+2) polymorphism
+     overloading
+     overriding
+3) abstraction
+
+4) encapsulation
+    class,object,constructor,desctructor
+    access specifiers
+
+
+class: class is group of data members and member functions
+object: object is instance of class
+object is an entity / identity of class
+
+classs        object
+
+Fruit        apple
+              orange
+              banana
+
+vehicle      car
+              bike
+              bus
+
+school     student
+              teacher
+              principal
+
+shop       customer
+              owner
+              employee
+bag        pen
+              pencil
+              eraser
+
+pl          c,c++
+
+color       red
+              blue
+              green
+
+
+class keyword is used to define class
+
+
+all data members and member functions are private by default
+to access public property out side of class we have to create an object of that class
+
+
+to access privete or public property in same class we can use directly / no object reqquired...
+----------------------------------------------------------------------------------------------
+
+
+
+
+
