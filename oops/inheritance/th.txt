@@ -1,0 +1,42 @@
+a child/derived class can use property of parent/base class called inheritance...
+
+use:-
+
+type of inheritance
+1. single inheritance
+
+a  -->b
+
+2. multiple inheritance
+
+                    a
+                 b     c
+
+
+                 x     y
+                    z   
+
+
+
+
+3. multilevel inheritance
+
+a -->b->c
+
+
+
+
+
+4. hierarchical inheritance
+
+                            x
+                       p         q
+                    m     n    o    r
+                a   b  c  d  e  f  g  h          
+
+
+
+
+5. hybrid inheritance
+
+a-->b->10 -->c
