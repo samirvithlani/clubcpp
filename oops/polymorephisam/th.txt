@@ -1,0 +1,24 @@
+polymorephisam : 
+ploymore --> poly --> many --> more --> more  phisam --> things --> things
+many form of the function called polymorephisam
+
+type of polymorephisam:
+1. compile time polymorephisam / static polymorephisam / early binding
+
+    function overloading....
+    operator overloading....
+
+2. run time polymorephisam / dynamic polymorephisam / late binding
+
+        function overriding....
+        virtual function....
+
+function overloading....
+function with same name but different parameters in same class called function overloading
+
+search(char name)
+search(char name,int price)
+search(int price)
+search(int price,char name)
+
+
