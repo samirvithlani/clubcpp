@@ -6,3 +6,16 @@ others are invalid, if user add other declain it and send message to user to ent
 get color
 
 print color and color name
+
+
+#take land from user as input 12000 sq feet land:
+
+create row house
+1 rowhouse req min 1200 sq feet land(1000 sq, house, 200 parking)
+min 10 row house should build 
+
+15000 sq 
+
+remaing space goes to garden....
+
+number hard coded -->variable...
