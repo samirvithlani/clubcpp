@@ -21,4 +21,32 @@ search(char name,int price)
 search(int price)
 search(int price,char name)
 
+//runtime pilymorephisam
+//late binding, dynamic polymorephisam
+function overriding.... 
+
+    child class will develope / create same method / function like parent class called function overriding
+    signature
+    return type, name, parameters
+
+    CG ROAD JB VADAPAV --> MAIN HO
+        vadpav(){};
+
+    BOPAL JB
+
+            VADAPAV(){};
+            
+                
+
+
+
+
+
+
+virtual fucntion ....
+pure virtual function ....
+abstract class ....
+
+
+
 
