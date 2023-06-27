@@ -1,0 +1,21 @@
+exception handling in c++ is process to handle runtime errors, we perform exception handle so the normal flow of the application can be maintin after even errors...
+
+STD:exception
+std:bad_alloc
+std:bad_cast
+std:bad_exception
+std:bad_typeid
+std:logic_error
+std:domain_error
+std:invalid_argument
+std:length_error
+std:out_of_range
+std:runtime_error
+std:overflow_error
+std:range_error
+std:underflow_error
+
+*/
+
+how to handle exception in c++?
+using try,catch,throw
